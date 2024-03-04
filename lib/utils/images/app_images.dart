@@ -1,8 +1,6 @@
 class AppImages {
   //.png
-
-
-  //.svg
+  static const String name = "";
 
 //.jpg
 
